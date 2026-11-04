@@ -1,0 +1,12 @@
+# Binarios e diretorios de compilacao
+bin/
+build/
+*.o
+
+# Ambientes virtuais Python
+.venv/
+__pycache__/
+
+# Ficheiros sensiveis e de configuracao local
+.env
+.DS_Store
